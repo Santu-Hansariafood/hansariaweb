@@ -59,6 +59,17 @@ export async function GET() {
       ],
       marketing: [
         {
+          id: "amit-kumar-sravastab",
+          name: "Amit Kumar Srivastab",
+          role: "Back office Manager",
+          image: "https://via.placeholder.com/150",
+          whatsapp: "https://wa.me/7788990011",
+          email: "mailto:linda.green@example.com",
+          description: "Linda helps with recruitment and employee engagement.",
+          experience: "6+ experience",
+          social: { facebook: "#", twitter: "#", linkedin: "#", instagram: "#" }
+        },
+        {
           id: "partha-mitra",
           name: "Partha Mitra",
           role: "Purchase Manager",
@@ -115,17 +126,7 @@ export async function GET() {
           experience: "6+ years of experience in administrative operations.",
           social: { facebook: "#", twitter: "#", linkedin: "#", instagram: "#" }
         },
-        {
-          id: "amit-kumar-sravastab",
-          name: "Amit Kumar Srivastab",
-          role: "Back office Manager",
-          image: "https://via.placeholder.com/150",
-          whatsapp: "https://wa.me/7788990011",
-          email: "mailto:linda.green@example.com",
-          description: "Linda helps with recruitment and employee engagement.",
-          experience: "6+ experience",
-          social: { facebook: "#", twitter: "#", linkedin: "#", instagram: "#" }
-        }
+        
       ],
       leaders: [
         {

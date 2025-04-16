@@ -77,7 +77,7 @@ const Navbar = () => {
             <Image 
               src={"/logo/logo.png"} 
               height={60} 
-              width={60} 
+              width={120} 
               alt="Hansaria Food Logo"
               className="hover:scale-105 transition-transform duration-300"
               priority
